@@ -1,4 +1,4 @@
-![image 22 42 40](https://user-images.githubusercontent.com/80662164/122151627-db08bb00-ce9a-11eb-8800-de48221028a9.png)
+![image 22 42 40](https://user-images.githubusercontent.com/80662164/122151627-db08bb00-ce9a-11eb-8800-de48221028a9.png) </br>
 👋 Hey there, I'm Alex </br>
 🌱 I’m currently a full-stack developer. </br>
 💎 I use Ruby, JS, HTML, CSS/SCSS </br>
