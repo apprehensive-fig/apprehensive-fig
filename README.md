@@ -4,5 +4,6 @@
 💎 I use Ruby, JS, HTML, CSS/SCSS </br>
 💬 Ask me about Ruby, CSS, and my cats. </br>
 📫 How to reach me: alexis.sae.an@gmail.com </br>
+✨ My portfolio: www.app-fig.com </br>
 ⚡ Fun fact: I got my username from Reddit's random username generator </br>
 
