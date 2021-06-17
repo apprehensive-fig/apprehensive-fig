@@ -2,7 +2,7 @@
 👋 Hey there, I'm Alex </br>
 🌱 I am currently a full-stack developer. </br>
 💎 I use Ruby, JS, HTML, CSS/SCSS </br>
-🌈 I am currently studying Python and React. </br>
+🌈 I am currently studying Python. </br>
 💬 Ask me about Ruby, CSS, and my cats. </br>
 📫 How to reach me: alexis.sae.an@gmail.com </br>
 ✨ My portfolio: www.app-fig.com </br>
