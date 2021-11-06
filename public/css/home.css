@@ -1,35 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-body{
+a {
+  text-decoration: none !important;
+}
+
+body {
     width: 100%;
-    position: relative;
     background: #fcfcfc;
 }
 
-.navbar {
-    width: 100%;
-    background: #fcfcfc;
-  }
+.content {
+  max-width: 700px;
+  padding: 100px;
+}
 
 h4 {
   font-family: 'Lato', sans-serif;
   color: #333333;
   }
 
+h4:hover {
+  color: #111111;
+  font-weight: bold;
+}
+
 h5 {
   font-family: 'Roboto', sans-serif;
   color: #333333;
 }
 
-a {
-    text-decoration: none !important;
-  }
+h5:hover {
+  color: #a6a6a6;
+}
+
+img {
+  width: 150px;
+  height: auto;
+}
+
+.navbar {
+  height: 70px;
+}
 
 .sidebar {
   margin: 0;
   float: right;
   margin-top: 100px;
-  width: 300px;
+  width: 200px;
   background-color: #fcfcfc;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
 }

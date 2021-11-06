@@ -1,5 +1,6 @@
 const express = require('express');
 const path = require('path');
+var nodemailer = require('nodemailer');
 
 let initial_path = path.join(__dirname, "public");
 
@@ -11,6 +12,10 @@ app.get('/', (req, res) => {
 
 app.get('/cv', (req, res) => {
     res.sendFile(path.join(initial_path, "cv.html"));
+})
+
+app.get('/contact', (req, res) => {
+    res.sendFile(path.join(initial_path, "contact.html"));
 })
 
 app.use('/css', express.static(path.join(__dirname, 'node_modules/bootstrap/dist/css')))
