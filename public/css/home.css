@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 body{
     width: 100%;
@@ -12,11 +12,24 @@ body{
     background: #fcfcfc;
   }
 
-h1, h2 {
-  font-family: 'Alex Brush', cursive;
+h4 {
+  font-family: 'Lato', sans-serif;
   color: #333333;
   }
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+}
 
 a {
     text-decoration: none !important;
   }
+
+.sidebar {
+  margin: 0;
+  float: right;
+  margin-top: 100px;
+  width: 300px;
+  background-color: #fcfcfc;
+}
