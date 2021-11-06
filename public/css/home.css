@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+body{
+    width: 100%;
+    position: relative;
+    background: #fcfcfc;
+}
+
+.navbar {
+    width: 100%;
+    background: #fcfcfc;
+  }
+
+h1, h2 {
+  font-family: 'Alex Brush', cursive;
+  color: #333333;
+  }
+
+a {
+    text-decoration: none !important;
+  }
