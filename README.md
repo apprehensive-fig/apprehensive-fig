@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dzwpbkn3u/image/upload/v1636200898/fig_caobfj.png">
+<img src="https://res.cloudinary.com/dzwpbkn3u/image/upload/v1623812435/image_22.42.40_nhty4k.png">
 
 Hey there, I'm Alex🦋
 
